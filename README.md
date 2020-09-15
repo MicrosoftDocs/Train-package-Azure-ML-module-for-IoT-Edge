@@ -15,7 +15,7 @@ To complete the labs, you'll need the following:
     3. Sign in using the Microsoft account associated with your Azure subscription.
     4. Click **Create environment**. If you don't already have a Visual Studio Online plan, create one. This is used to track resource utlization by your Visual Studio Online environments. Then create an environment with the following settings:
         - **Environment Name**: *A name for your environment - for example, **MSLearn-create-deploy-azure-ml-module**.*
-        - **Git Repository**: leestott/create-deploy-azure-ml-module
+        - **Git Repository**: MicrosoftDocs/-Train-package-Azure-ML-module-for-IoT-Edge
         - **Instance Type**: Standard (Linux) 4 cores, 8GB RAM
         - **Suspend idle environment after**: 120 minutes
     5. Wait for the environment to be created, and then click **Connect** to connect to it. This will open a browser-based instance of Visual Studio Code.
